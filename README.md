@@ -1,6 +1,9 @@
 # Data-Science-Heart-disease-prediction
 
-## 
+## Instructions for Running Python Notebooks Locally
+- requiements.txt
+-  Use google colab
+- use jupyter nootbook
 
 #  Predicting Heart Disease with Classification Machine Learning Algorithms
 
