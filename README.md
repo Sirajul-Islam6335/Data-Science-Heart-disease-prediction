@@ -90,4 +90,4 @@ Our Predictor (Y, Positive or Negative diagnosis of Heart Disease) is determined
       - cp --> Chest pain type.
       - exercise --> exercise induced angina
       
- 2. From this model you can check have you any heart disease or not.
+ 2. From this model you can check have you any heart disease or not(This project is for fun).
